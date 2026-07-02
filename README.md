@@ -1,4 +1,6 @@
-## Hi there 👋
+- Gigih :)
+- Cat lover
+- Em um mundo cheio de variáveis,queria que voce fosse minha unica constante
 
 <!--
 **GhostGigih/GhostGigih** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
