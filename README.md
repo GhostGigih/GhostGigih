@@ -1,7 +1,6 @@
 - Gigih :)
 - Cat lover
-- Em um mundo cheio de variáveis,queria que voce fosse minha unica constante
-
+- In a world full of variables,I wanted you to be the only constant...🤍
 <!--
 **GhostGigih/GhostGigih** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
