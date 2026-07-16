@@ -1,22 +1,7 @@
-- Gigih :)
-- Cat lover
+- Hey guys,eu sou a Georgia,welcome to my profile :);
+- Cat lover;
+- Amo música;
 - In a world full of variables,I wanted you to be the only constant...🤍
 
-<h1 align="center"> Hey guys,welcome to my profile :) </h1>
-<p align="center">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSo7Q7seSr6yKp2hhBrQASHeJoXsnAy7oMdBhiqxpilQw&s=10" width="700">
-</p>
-<!--
-**GhostGigih/GhostGigih** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center"> <img width="498" height="281" src="<img width="480" 
+  <img height="270" alt="https://pt.dreamstime.com/gato-preto-e-branco-de-fundo-bonitinho-sentado-ao-lado-olhando-para-c%C3%A2mera-com-olhos-verdes-mesmerisores-isolado-em-image192773015">
