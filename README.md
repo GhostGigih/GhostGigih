@@ -1,6 +1,14 @@
 - Gigih :)
 - Cat lover
 - In a world full of variables,I wanted you to be the only constant...🤍
+
+
+<p align="center">
+  <img
+    src="https://media.tenor.com/HZ_T6mtv9tMAAAAM/jenna-ortega-happy.gif"
+    alt="Jenna Ortega"
+    width="220">
+</p>
 <!--
 **GhostGigih/GhostGigih** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
