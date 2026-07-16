@@ -2,12 +2,12 @@
 - Cat lover
 - In a world full of variables,I wanted you to be the only constant...🤍
 
-
+<h1 align="center"> Hey guys,welcome to my profile :) </h1>
 <p align="center">
   <img
-    src="https://media.tenor.com/HZ_T6mtv9tMAAAAM/jenna-ortega-happy.gif"
-    alt="Jenna Ortega"
-    width="220">
+    src="https://pin.it/6g572Cf6N"
+    alt="Spider-Gwen"
+    width="700">
 </p>
 <!--
 **GhostGigih/GhostGigih** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
