@@ -4,10 +4,7 @@
 
 <h1 align="center"> Hey guys,welcome to my profile :) </h1>
 <p align="center">
-  <img
-    src="https://pin.it/6g572Cf6N"
-    alt="Spider-Gwen"
-    width="700">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSo7Q7seSr6yKp2hhBrQASHeJoXsnAy7oMdBhiqxpilQw&s=10" width="700">
 </p>
 <!--
 **GhostGigih/GhostGigih** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
