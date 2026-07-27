@@ -3,4 +3,4 @@
 - Amo música;
 - In a world full of variables,I wanted you to be the only constant...🤍
 
-<p"https://pin.it/6lfM9QJVc"> height:250 width:250 </p>
+<p"https://pin.it/6lfM9QJVc"> </p> height:250 width:250
