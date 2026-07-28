@@ -6,5 +6,3 @@
 <p align="center">
   <img src="https://pin.it/6lfM9QJVc"/>
 </p>
-width="250"
-height="250"
